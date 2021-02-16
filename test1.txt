@@ -1,0 +1,10 @@
+ Il volume nell'unit… C Š Windows 
+ Numero di serie del volume: 6E41-9ACC
+
+ Directory di C:\Users\g.cacucci\Documents\Doc Personali\Git and GitHub\MyProject
+
+16/02/2021  09:22    <DIR>          .
+16/02/2021  09:22    <DIR>          ..
+16/02/2021  09:22                 0 test1.txt
+               1 File              0 byte
+               2 Directory  24.458.665.984 byte disponibili
